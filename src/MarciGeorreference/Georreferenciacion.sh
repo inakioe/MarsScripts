@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#convierte los archivos globales jpg de MARCI a geotiff
+#convierte los archivos globales jpg de MARCI a geotiff. Activar entorno gdal
 date
 echo ' '
 
