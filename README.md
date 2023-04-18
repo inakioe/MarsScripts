@@ -28,6 +28,8 @@ Este script procesa los archivos .cub resultantes de marci2tif.sh y los organiza
 · el script Georreferenciacion.sh convierte los archivos globales jpg de MARCI a geotiff. 
 
 <p><p>
+  
+  
 - ListarProcesadasMM 
 
 =====================
