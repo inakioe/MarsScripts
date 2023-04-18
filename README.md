@@ -2,7 +2,9 @@
 Some scripts to work with martian data and images
 
 - MarciHDR
+
 =====================
+
 Los archivos marci2tif.sh y marci2tif_5.sh deben estar en la carpeta en la que se encuentren las imágenes IMG de MARCI.  
 
 0.- Activamos el entorno de ISIS:
@@ -18,11 +20,15 @@ Este script procesa los archivos .cub resultantes de marci2tif.sh y los organiza
 
 
 - MarciGeorreference
+
 =====================
+
 · el script Georreferenciacion.sh convierte los archivos globales jpg de MARCI a geotiff. 
 
 
 - ListarProcesadasMM 
+
 =====================
+
 · listarprocesadas.py Este script lista los huecos entre fechas de las imágenes procesadas para MeteoMars.
 · listardiscrepancias.py Este srcipt muestra las discrepancias entre las imágenes globales y las carpetas con las tiras de MeteoMars y  crrea un script sh para el borrado de las carpetas que no tengan correspondencia. 
