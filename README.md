@@ -1,7 +1,6 @@
 # MarsScripts
 Some scripts to work with martian data and images
-<p><p>
-
+<p>
 
 - MarciHDR
 
@@ -20,8 +19,7 @@ Lista todos los archivos IMG de la carpeta y ejecuta la orden marci2tif_5.sh par
 3.- Ejecutar en un entorno con isis activado y gdal el script MakeVRT.py
 Este script procesa los archivos .cub resultantes de marci2tif.sh y los organiza por carpetas, creando un archivo vrt en RGB para cada una de las tiras de MARCI. 
 
-
-
+<p>
 
 - MarciGeorreference
 
@@ -29,9 +27,7 @@ Este script procesa los archivos .cub resultantes de marci2tif.sh y los organiza
 
 · el script Georreferenciacion.sh convierte los archivos globales jpg de MARCI a geotiff. 
 
-
-
-
+<p>
 - ListarProcesadasMM 
 
 =====================
