@@ -2,6 +2,7 @@
 Some scripts to work with martian data and images
 
 
+
 - MarciHDR
 
 =====================
@@ -21,11 +22,13 @@ Este script procesa los archivos .cub resultantes de marci2tif.sh y los organiza
 
 
 
+
 - MarciGeorreference
 
 =====================
 
 · el script Georreferenciacion.sh convierte los archivos globales jpg de MARCI a geotiff. 
+
 
 
 
