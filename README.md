@@ -38,7 +38,7 @@ Este script procesa los archivos .cub resultantes de marci2tif.sh y los organiza
 · listardiscrepancias.py Este srcipt muestra las discrepancias entre las imágenes globales y las carpetas con las tiras de MeteoMars y  crrea un script sh para el borrado de las carpetas que no tengan correspondencia. 
 
 <p><p>  
-  - Procesado para MeteoMars
+- Procesado para MeteoMars
   
   =====================
   
