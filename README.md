@@ -46,8 +46,10 @@ Este script procesa los archivos .cub resultantes de marci2tif.sh y los organiza
 Sincronizar Kernels:
 
 · entrar en la carpeta /media/MARCI_DISK/data/
-
-· rsync -azv --delete --partial isisdist.astrogeology.usgs.gov::isis3data/data/mro .
+  
+· Asegurar que en la carpeta está el scrip downloadIsisData
+  
+· python downloadIsisData mro .
 
 Actualizar listado de imágenes
 
