@@ -39,14 +39,19 @@ Este script procesa los archivos .cub resultantes de marci2tif.sh y los organiza
 
   
   - Procesado para MeteoMars
+  
   =====================
+  
   Sincronizar Kernels:
+  
   · entrar en la carpeta /media/MARCI_DISK/data/
   · rsync -azv --delete --partial isisdist.astrogeology.usgs.gov::isis3data/data/mro .
   
   Actualizar listado de imágenes
+  
   · conda activate marci
   · python /home/ioe/anaconda3/envs/marci/bin/MarciListUpdate.py
   
   Procesar intervalo de fechas
+  
   · nohup MarsWeatherReport.sh 2022-09-01 2018-09-30 &
